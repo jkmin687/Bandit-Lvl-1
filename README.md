@@ -14,8 +14,8 @@ The OverTheWire Bandit wargame is a series of challenges designed to teach the b
 
 ### Tools Used
 
-- SSH
-- Linux terminal
+- Linux Terminal
+- `ssh`, `ls`, `cat`
 
 ## Steps
 
